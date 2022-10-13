@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Metal Mania', cursive;
+    font-family: 'Michroma', sans-serif;
+    font-family: 'Nunito', sans-serif;
+}
+ul li a:hover{
+    text-transform: uppercase;
+}
+
+
+.logo{
+    width: 150px;
+}
+.foto-inicio{
+    width: 1000px;
+}
+.container h2{
+    font-size: 100px;
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    text-shadow: 0 0 8px;
+    text-align: center;
+    box-shadow: 5px 8px 12px black;
+}
+ 
+ .titulo-maps{
+    text-align: center;
+ }
+ .map{
+    display: flex;
+    margin: auto;
+    background-color: rgb(247, 196, 67);
+    padding: 10px;
+    
+ }
